@@ -2,25 +2,6 @@
 
 A futuristic, highly animated student learning dashboard built with Next.js App Router, Supabase, Tailwind CSS, and Framer Motion.
 
-## ✨ Features
-
-
-
----
-
-## 🛠 Tech Stack
-
-| Tool | Version | Purpose |
-|------|---------|---------|
-| Next.js | 14 | Framework (App Router) |
-| Supabase | Latest | PostgreSQL database + BaaS |
-| Tailwind CSS | 3.4 | Styling |
-| Framer Motion | 11 | Animations |
-| Lucide React | Latest | Icons |
-| TypeScript | 5 | Type safety |
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone & Install
