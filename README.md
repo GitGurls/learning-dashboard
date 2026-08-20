@@ -72,20 +72,6 @@ lib/
 
 **Key principle**: Data fetching happens in Server Components (`CoursesGrid.tsx`). Animation/interactivity is isolated to Client Components. This maximizes performance and keeps the server render fast.
 
-### Supabase Data Flow
-
-1. `page.tsx` renders `<Suspense fallback={<CoursesGridSkeleton />}>`
-2. Inside the boundary: `<CoursesGrid />` is a Server Component that `await`s Supabase
-3. While loading → skeleton shimmer is shown
-4. On resolve → `CourseCard` components render with staggered Framer Motion animations
-
-### Animation Strategy
-
-- **No layout shifts**: All hover/entrance animations use `transform` and `opacity` only
-- **Spring physics**: `type: "spring", stiffness: 300, damping: 20` on all card hovers
-- **Staggered load**: Each tile has `delay: index * 0.08` for sequential entrance
-- **layoutId**: Sidebar active indicator uses `layoutId="activeNav"` for smooth transitions
-- **Progress bars**: Animate from `width: 0%` to `width: value%` with `ease: [0.34, 1.56, 0.64, 1]` (overshoot spring)
 
 ---
 
