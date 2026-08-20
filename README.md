@@ -4,15 +4,7 @@ A futuristic, highly animated student learning dashboard built with Next.js App 
 
 ## ✨ Features
 
-- **Dark mode** with deep navy/black backgrounds and glowing accents
-- **Bento Grid layout** with dynamic, responsive tiles
-- **Collapsible sidebar** with Framer Motion `layoutId` nav animations
-- **Live Supabase data** fetched via Server Components (RSC)
-- **Suspense + skeleton loaders** with shimmer animations
-- **Staggered page load** animations with spring physics
-- **Animated progress bars** that animate from 0 → value on load
-- **Contribution graph** activity tile (90-day view)
-- **Fully responsive**: desktop (sidebar) → tablet (icon sidebar) → mobile (bottom nav)
+
 
 ---
 
