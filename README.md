@@ -1,20 +1,4 @@
 # LearnOS — Next-Gen Student Dashboard
-
-
-```bash
-git clone https://github.com/YOUR_USERNAME/learning-dashboard.git
-cd learning-dashboard
-npm install
-```
-
-cp .env.example .env.local
-```
-
-Edit `.env.local`:
-
-```env
-NEXT_PUBLIC_SUPABASE_URL=https://YOUR_PROJECT_REF.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key_here
 ```
 
 ### 4. Run Development Server
