@@ -1,10 +1,5 @@
 # LearnOS — Next-Gen Student Dashboard
 
-A futuristic, highly animated student learning dashboard built with Next.js App Router, Supabase, Tailwind CSS, and Framer Motion.
-
-## 🚀 Getting Started
-
-### 1. Clone & Install
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/learning-dashboard.git
