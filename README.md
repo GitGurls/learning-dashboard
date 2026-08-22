@@ -7,15 +7,6 @@ cd learning-dashboard
 npm install
 ```
 
-### 2. Set Up Supabase
-
-1. Go to [supabase.com](https://supabase.com) and create a free project
-2. In your Supabase dashboard → **SQL Editor** → paste the contents of `supabase-setup.sql` → click **Run**
-3. Go to **Settings → API** and copy your keys
-
-### 3. Configure Environment Variables
-
-```bash
 cp .env.example .env.local
 ```
 
