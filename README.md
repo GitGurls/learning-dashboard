@@ -1,16 +1,4 @@
-# LearnOS — Next-Gen Student Dashboard
-```
 
-
-Open [http://localhost:3000](http://localhost:3000)
-
----
-
-## 🏗 Architecture
-
-### Server / Client Component Split
-
-```
 app/
   page.tsx              ← Server Component (fetches data, no "use client")
   layout.tsx            ← Server Component (metadata, fonts)
