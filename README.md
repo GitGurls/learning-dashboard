@@ -1,11 +1,6 @@
 # LearnOS — Next-Gen Student Dashboard
 ```
 
-### 4. Run Development Server
-
-```bash
-npm run dev
-```
 
 Open [http://localhost:3000](http://localhost:3000)
 
