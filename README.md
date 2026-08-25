@@ -1,8 +1,4 @@
 
-app/
-  page.tsx              ← Server Component (fetches data, no "use client")
-  layout.tsx            ← Server Component (metadata, fonts)
-  loading.tsx           ← Server Component (full-page skeleton)
 
 components/
   dashboard/
