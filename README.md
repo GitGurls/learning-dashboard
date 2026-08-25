@@ -1,16 +1,5 @@
 
 
-components/
-  dashboard/
-    CoursesGrid.tsx     ← Server Component (async, fetches from Supabase)
-    HeroTile.tsx        ← Client Component (animations)
-    StatsTile.tsx       ← Client Component (animations)
-    ActivityTile.tsx    ← Client Component (animations)
-  sidebar/
-    Sidebar.tsx         ← Client Component (state, interactions)
-  ui/
-    BentoCard.tsx       ← Client Component (Framer Motion wrapper)
-    ProgressBar.tsx     ← Client Component (animated bar)
 
 lib/
   supabase/
