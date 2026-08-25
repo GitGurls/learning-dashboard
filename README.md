@@ -1,15 +1,6 @@
 
 
 
-lib/
-  supabase/
-    server.ts           ← Supabase SSR client (cookies, server-safe)
-    client.ts           ← Supabase browser client
-  data.ts               ← Data fetching functions + fallbacks
-```
-
-**Key principle**: Data fetching happens in Server Components (`CoursesGrid.tsx`). Animation/interactivity is isolated to Client Components. This maximizes performance and keeps the server render fast.
-
 
 ---
 
