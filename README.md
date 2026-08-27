@@ -1,23 +1,6 @@
 
 
 
-
-
-```
-
-Add your environment variables in Vercel dashboard → Project Settings → Environment Variables.
-
----
-
-## 📁 Environment Variables
-
-See `.env.example` for the required variables:
-
-```
-NEXT_PUBLIC_SUPABASE_URL=
-NEXT_PUBLIC_SUPABASE_ANON_KEY=
-```
-
 > ⚠️ Never commit your `.env.local` file. It's in `.gitignore` by default.
 
 ---
