@@ -2,16 +2,7 @@
 
 
 
----
 
-## 🌐 Deployment (Vercel)
-
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel --prod
 ```
 
 Add your environment variables in Vercel dashboard → Project Settings → Environment Variables.
