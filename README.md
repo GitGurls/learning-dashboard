@@ -1,4 +1,4 @@
 
 ## 📄 License
 
-MIT — built for the LearnOS Frontend 
+MIT — built for the 
