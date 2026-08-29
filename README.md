@@ -1,4 +1,4 @@
 
 ## 📄 License
 
-MIT — built for the LearnOS Frontend Intern Challenge
+MIT — built for the LearnOS Frontend 
