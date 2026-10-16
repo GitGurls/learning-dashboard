@@ -1,3 +1,3 @@
 
 MIT dnc 
-https://github.com/GitGurls/learning-dashboard/edit/main/
+https://github.com/GitGurls/learning-dashboard/edit
